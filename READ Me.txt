@@ -1,0 +1,41 @@
+
+NOTE 1 : The sample file for ASSERTION is network.txt events.txt
+NOTE 2 : networkTS1b.txt, eventsTS1.txt, eventsTS1b.txt will only operate in normal interactive or simulation
+- To run the program use the command "java SocialSim -i" for interactive mode or "java SocialSim -s network.txt events.txt like_probability follow_probability "
+- s: simulation mode the program will run using the provided data from file and save the result to a file call save.txt
+- i: the program will operate in interactive mode which show a menu like below
+1. Load Network. 
+2. Set probabilities 
+3. Node operations (find, delete, insert) 
+	3.1 find 
+	3.2 delete 
+	3.3	insert 	
+4. Edge operations (like / follow - add , remove)
+	4.1 add like / follow 
+	4.2 remove like / follow	
+5. New Post (state / events )
+6. Display network 
+7. Display statistics
+	7.1 post in order of popularity 
+	7.2 show people in popularity order
+	7.3 Show a person record 
+8. Update (run a timestep) (1 step at a time when there new post)
+9. Save Network	(save graph) 
+
+-- extra functions --
+
+10. Print graph Edge
+11. Print specific vertex Edge
+15. Exit -work
+
+Files: 
+- DSALinkedList : structure connect object
+	+ DSAListNode: node data
+- DSAGraph: main structure of the social sim hold a network of persons
+	+ DSAGraphEdge: represent follow between person to another 
+	+ DSAGraphVertex: represent the information of a person 
+		DSAPost : linkedlist of post belong to a person
+- FileIO: import and export data
+- SSUserinterface: show menu and trigger other feature of the social network
+- DSAQueue: to perform update data 
+- DSAStack: for depth first search in the DSAGraph

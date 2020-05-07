@@ -1,0 +1,223 @@
+ ------- Time Step : 1
+Kira : Jen : Nebrie
+Emperor
+Jen : Aughra : Healer : Kira : Master
+Master : Kira
+skekUng : Emperor
+Aughra : Jen
+Healer : Master
+Nebrie : Kira
+Bat-Crystal : skekUng
+Chamberlain : Emperor
+Fizzgig : Kira
+Garthim : skekUng
+Landstrider : Kira
+
+ ------- Time Step : 2
+Aughra : Jen
+Bat-Crystal : skekUng
+Chamberlain : Emperor
+Emperor
+Fizzgig : Kira
+Garthim : skekUng
+Healer : Master
+Jen : Aughra : Healer : Kira : Master
+Kira : Jen : Nebrie
+Landstrider : Kira
+Master : Kira
+Nebrie : Kira
+skekUng : Emperor
+
+ ------- Time Step : 3
+Aughra : Jen
+Bat-Crystal : skekUng
+Chamberlain : Emperor
+Emperor
+Fizzgig : Kira
+Garthim : skekUng
+Healer : Master
+Jen : Aughra : Healer : Kira : Master
+Kira : Jen : Nebrie
+Landstrider : Kira
+Master : Kira
+Nebrie : Kira
+skekUng : Emperor
+
+ ------- Time Step : 4
+Aughra : Jen
+Bat-Crystal : skekUng
+Chamberlain : Emperor
+Emperor
+Fizzgig : Kira
+Garthim : skekUng
+Healer : Master
+Jen : Aughra : Healer : Kira : Master
+Kira : Jen : Nebrie
+Landstrider : Kira
+Master : Kira
+Nebrie : Kira
+skekUng : Emperor
+
+ ------- Time Step : 5
+Aughra : Jen
+Bat-Crystal : skekUng
+Chamberlain : Emperor
+Emperor
+Fizzgig : Kira
+Garthim : skekUng
+Healer : Master
+Jen : Aughra : Healer : Kira : Master
+Kira : Jen : Nebrie
+Landstrider : Kira
+Master : Kira
+Nebrie : Kira
+skekUng : Emperor
+
+Post: "The Garthim attacked my village	 newly posted: false " has 2 like and liked by Kira Nebrie 
+The Garthim attacked my village 
+ - Amount of likes:  2
+The Great Conjunction is the end of the world! ... or the beginning. 
+ - Amount of likes:  2
+Trial by stone! 
+ - Amount of likes:  1
+Wings? I don't have wings! 
+ - Amount of likes:  1
+
+Kira is followed by:  5 person.
+They are: Landstrider : Nebrie : Fizzgig : Master : Jen : 
+Kira following : Jen : Nebrie : 
+
+Emperor is followed by:  2 person.
+They are: Chamberlain : skekUng : 
+Emperor following : 
+
+Jen is followed by:  2 person.
+They are: Aughra : Kira : 
+Jen following : Aughra : Healer : Kira : Master : 
+
+Master is followed by:  2 person.
+They are: Jen : Healer : 
+Master following : Kira : 
+
+skekUng is followed by:  2 person.
+They are: Garthim : Bat-Crystal : 
+skekUng following : Emperor : 
+
+Aughra is followed by:  1 person.
+They are: Jen : 
+Aughra following : Jen : 
+
+Healer is followed by:  1 person.
+They are: Jen : 
+Healer following : Master : 
+
+Nebrie is followed by:  1 person.
+They are: Kira : 
+Nebrie following : Kira : 
+
+Bat-Crystal is followed by:  0 person.
+They are: 
+Bat-Crystal following : skekUng : 
+
+Chamberlain is followed by:  0 person.
+They are: 
+Chamberlain following : Emperor : 
+
+Fizzgig is followed by:  0 person.
+They are: 
+Fizzgig following : Kira : 
+
+Garthim is followed by:  0 person.
+They are: 
+Garthim following : skekUng : 
+
+Landstrider is followed by:  0 person.
+They are: 
+Landstrider following : Kira : 
+
+
+
+------Final data : 
+
+Name: Kira
+following : Jen : Nebrie : 
+post Count :1
+Post: "The Garthim attacked my village	 newly posted: false " has 2 like and liked by Kira Nebrie 
+ 
+ 
+
+Name: Emperor
+following : 
+post Count :0
+
+ 
+
+Name: Jen
+following : Aughra : Healer : Kira : Master : 
+post Count :1
+Post: "Wings? I don't have wings!	 newly posted: false " has 1 like and liked by Jen 
+ 
+ 
+
+Name: Master
+following : Kira : 
+post Count :0
+
+ 
+
+Name: skekUng
+following : Emperor : 
+post Count :0
+
+ 
+
+Name: Aughra
+following : Jen : 
+post Count :1
+Post: "The Great Conjunction is the end of the world! ... or the beginning.	 newly posted: false " has 2 like and liked by Aughra Jen 
+ 
+ 
+
+Name: Healer
+following : Master : 
+post Count :0
+
+ 
+
+Name: Nebrie
+following : Kira : 
+post Count :0
+
+ 
+
+Name: Bat-Crystal
+following : skekUng : 
+post Count :0
+
+ 
+
+Name: Chamberlain
+following : Emperor : 
+post Count :1
+Post: "Trial by stone!	 newly posted: false " has 1 like and liked by Chamberlain 
+ 
+ 
+
+Name: Fizzgig
+following : Kira : 
+post Count :0
+
+ 
+
+Name: Garthim
+following : skekUng : 
+post Count :0
+
+ 
+
+Name: Landstrider
+following : Kira : 
+post Count :0
+
+ 
+
